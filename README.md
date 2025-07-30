@@ -15,7 +15,7 @@ The dashboard provides deep insights into employee turnover and satisfaction acr
 
 ##  Key Metrics
 - **Total Employees:** 800  
-- **Total Attrition (Left Employees):** 624  
+- **Total Attrition:** 624  
 - **Highest Attrition by Background:** Life Sciences (294 employees)  
 - **Lowest Attrition by Background:** Human Resources (31 employees)  
 
@@ -45,8 +45,7 @@ The dashboard provides deep insights into employee turnover and satisfaction acr
 ---
 
 ##  Tools & Skills Used
-- **Power BI Desktop** – Data Modeling, Power Query, DAX, Visualizations  
-- **DAX (Data Analysis Expressions)** – Custom metrics, calculated columns  
+- **Power BI Desktop** – Power Query, Visualizations   
 - **Power Query** – Data transformation and cleaning  
 - **HR Analytics Concepts** – Attrition, satisfaction, tenure analysis
 
